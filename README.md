@@ -6,7 +6,7 @@
 * Repository URL: https://github.com/NikunjGoneka/Goenka-Nikunj-csci5709-tutorial4
 
 ## Authors
-* [Nikunj Goenka](Nikunj.Goenka@dal.ca)
+* [Nikunj Goenka](https://github.com/NikunjGoneka)
 
 
 ## Sources Used
